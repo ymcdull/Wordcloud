@@ -1,1 +1,1 @@
-A jupyter test for wordcloud of chinese characters
+A jupyter test for wordcloud of chinese characters. See run.ipynb.
